@@ -16,9 +16,6 @@ export const metadata: Metadata = {
   title: "Siddhesh Khandagale | Go Backend Engineer",
   description:
     "Go backend engineer focused on reliable APIs, cloud systems, and AI-enabled workflows.",
-  icons: {
-    icon: "/favicon.svg",
-  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
